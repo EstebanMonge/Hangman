@@ -1,4 +1,8 @@
 # Hangman
+Es una traducción con algunas mejoras de la implementación original
+para fines didacticos.
+
+Original description:
 A Hangman game made with python using Tkinter library.
 To run this game on your system follow steps given below.
 1. Clone this repository
