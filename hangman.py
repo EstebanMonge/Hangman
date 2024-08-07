@@ -16,7 +16,7 @@ def juegoNuevo():
     la_palabra_conEspacios = " ".join(la_palabra)
     # Asigna a la etiqueta la palabra reemplazando letras con guiones bajos
     etiquetaPalabra.set(' '.join("_"*len(la_palabra)))
-    imgEtiqueta.config(image="")
+    imgEtiqueta.config(image=fotos[0])
     #Crea la butonera con todos las letras
     #Cada vez que se oprime una letra llama a la función adivinar
     n=0
